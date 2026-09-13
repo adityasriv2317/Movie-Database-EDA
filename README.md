@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Database Exploratory Data Analysis (EDA)
 
 ## 📌 Overview
@@ -23,3 +24,6 @@ Movie-Database-EDA/
 - matplotlib
 - seaborn
 - warnings
+=======
+# Movie-Database-EDA
+>>>>>>> f4a5a45cc917cd67f846710cb149f792fcd119aa
