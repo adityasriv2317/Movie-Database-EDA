@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 # Movie Database Exploratory Data Analysis (EDA)
+
+## 🔗 CSV File Link
+[https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization/data](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization/data)
 
 ## 📌 Overview
 
@@ -25,5 +27,3 @@ Movie-Database-EDA/
 - seaborn
 - warnings
 =======
-# Movie-Database-EDA
->>>>>>> f4a5a45cc917cd67f846710cb149f792fcd119aa
